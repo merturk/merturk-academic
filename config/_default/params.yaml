@@ -18,10 +18,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Mehmet Ali Ertürk is an assistant professor at İstanbul University. His research interests include wireless communications, low power wide area networks, and IoT'
+    twitter: 'merturk'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-6098617-1'
     baidu_tongji: ''
   verification:
     google: ''
