@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: recent-pubs
+widget_id: featured
 weight: 90
 title: Recent Publications
 subtitle: ""
