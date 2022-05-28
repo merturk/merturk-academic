@@ -4,6 +4,9 @@ title: An Overview of Istanbul University’s Distance Education Practices Durin
 publication_types:
   - "2"
 authors:
+  - Mahmut Ak
+  - Levent Şahin
+  - Ahmet Çiçekler
   - admin
 draft: false
 featured: false
