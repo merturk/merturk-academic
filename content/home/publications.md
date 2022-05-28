@@ -1,10 +1,10 @@
 ---
 widget: pages
 widget_id: recent-pubs
-headless: true
 weight: 90
 title: Recent Publications
 subtitle: ""
+active: true
 content:
   filters:
     folders:
@@ -19,6 +19,7 @@ content:
   count: 0
   offset: 0
   order: desc
+headless: true
 design:
   view: citation
   columns: "2"
