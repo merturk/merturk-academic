@@ -3,9 +3,10 @@ title: Mehmet Ali Ertürk
 role: Assistant Professor at İstanbul University
 bio: "Interested in Wireless Communications. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Wireless Communications
+  - LWPAN
+  - IoT
+  - V2X
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,19 +24,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/merturk
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: İstanbul University
+    url: https://istanbul.edu.tr/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Engineering
+      institution: İstanbul University
+      year: 2016
+    - course: MSc in Computer Engineering
+      institution: İstanbul University
+      year: 2011
 email: ""
 superuser: true
 highlight_name: true
