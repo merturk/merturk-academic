@@ -41,6 +41,6 @@ superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is an assistant professor at İstanbul University. His research interests include wireless communications,low power wide area networks, and IoT. 
+Mehmet Ali Ertürk is an assistant professor at İstanbul University. His research interests include wireless communications, low power wide area networks, and IoT. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
