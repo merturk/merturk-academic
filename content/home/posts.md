@@ -1,10 +1,10 @@
 ---
 widget: pages
 widget_id: recent-posts
-headless: true
 weight: 60
 title: Recent Posts
 subtitle: null
+active: false
 content:
   filters:
     folders:
@@ -19,6 +19,7 @@ content:
   count: 5
   offset: 0
   order: desc
+headless: true
 design:
   view: compact
   columns: "2"
