@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} MAE. 
+    notice: '© {year} MAE.' 
     license:
       enable: true
       allow_derivatives: false
