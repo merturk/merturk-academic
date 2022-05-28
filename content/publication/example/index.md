@@ -2,7 +2,7 @@
 title: GSP for Virtual Sensors in eHealth Applications
 authors:
   - admin
-  - ""
+  - "Luca Vollero"
 author_notes: []
 publication_short: ""
 abstract: The Graph Signal Processing (GSP) is a mathematical framework that
