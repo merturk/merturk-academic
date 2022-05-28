@@ -4,7 +4,7 @@ widget_id: contact
 weight: 130
 title: Contact
 subtitle: null
-active: false
+active: true
 content:
   form:
     provider: netlify
