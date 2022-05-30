@@ -23,11 +23,23 @@ experience:
     date_start: 2014-03-01
     date_end: 2020-01-01
   - title: Software Engineer
+    company: IT Department, İstanbul University
+    company_url: "https://bilgiisilem.istanbul.edu.tr/tr/"
+    location: İstanbul, Türkiye
+    date_start: 2012-10-15
+    date_end: 2014-03-01
+  - title: Software Engineer
     company: Technical Consultant
     company_url: ""
     location: İstanbul, Türkiye
+    date_start: 2011-10-15
+    date_end: 2012-10-14
+- title: Software Engineer
+    company: Mobilike
+    company_url: ""
+    location: İstanbul, Türkiye
     date_start: 2010-05-01
-    date_end: 2011-11-01
+    date_end: 2011-10-14
   - title: Software Engineer
     company: Bimeks
     company_url: ""
