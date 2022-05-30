@@ -4,7 +4,7 @@ active: true
 date_format: Jan 2006
 experience:
   - title: Assistant Professor
-    company: İstanbul University
+    company: Department of Transportation and Logistics, İstanbul University
     company_url: ""
     company_logo: org-gc
     location: İstanbul, Türkiye
@@ -16,7 +16,7 @@ experience:
         * Modelling
         * Deploying
   - title: IT Director
-    company: İstanbul University
+    company: IT Department, İstanbul University
     company_url: ""
     company_logo: org-x
     location: İstanbul, Türkiye
