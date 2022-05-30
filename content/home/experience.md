@@ -3,27 +3,26 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Assistant Professor
+    company: İstanbul University
     company_url: ""
     company_logo: org-gc
-    location: California
-    date_start: 2021-01-01
+    location: İstanbul, Türkiye
+    date_start: 2020-01-01
     date_end: ""
     description: |-2
         Responsibilities include:
-        
         * Analysing
         * Modelling
         * Deploying
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: IT Director
+    company: İstanbul University
     company_url: ""
     company_logo: org-x
-    location: California
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: İstanbul, Türkiye
+    date_start: 2020-01-01
+    date_end: 2020-04-21
+    
 widget_id: experience
 headless: true
 weight: 40
