@@ -49,4 +49,3 @@ I obtained Ph.D. 2016 in Computer Engineering, the thesis studies about manageme
 I am open to research cooperation with individuals and organizations related to wireless communication systems
  in such a case, feel free to   {{< staticref "#contact" >}}contact me{{< /staticref >}}.  
 
-{{< icon name="download" pack="fas" >}} Download my  {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. 
