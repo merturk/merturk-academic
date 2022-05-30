@@ -4,7 +4,7 @@ role: Assistant Professor at İstanbul University
 bio: "Interested in Wireless Communications. "
 interests:
   - Wireless Communications
-  - LWPAN
+  - Low Power Wide Area Networks
   - IoT
   - V2X
 social:
@@ -23,6 +23,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/merturk
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Mehmet_Ali_Ertuerk
 organizations:
   - name: İstanbul University
     url: https://istanbul.edu.tr/
