@@ -26,6 +26,9 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Mehmet_Ali_Ertuerk
+  - icon: medium
+    icon_pack: fab
+    link: https://medium.com/@merturk
 organizations:
   - name: İstanbul University
     url: https://istanbul.edu.tr/
