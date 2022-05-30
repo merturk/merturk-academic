@@ -5,23 +5,17 @@ date_format: Jan 2006
 experience:
   - title: Assistant Professor
     company: Department of Transportation and Logistics, İstanbul University
-    company_url: ""
-    company_logo: org-gc
+    company_url: "https://www.istanbul.edu.tr/tr/"
     location: İstanbul, Türkiye
     date_start: 2020-01-01
     date_end: ""
-    description: |-2
-        Responsibilities include:
-        * Analysing
-        * Modelling
-        * Deploying
+    description:
   - title: IT Director
     company: IT Department, İstanbul University
-    company_url: ""
-    company_logo: org-x
+    company_url: "https://ulastirmalojistik.istanbul.edu.tr/tr/"
     location: İstanbul, Türkiye
     date_start: 2020-01-01
-    date_end: 2020-04-21
+    date_end: 2022-04-21
     
 widget_id: experience
 headless: true
