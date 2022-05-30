@@ -6,12 +6,6 @@ title: Contact
 subtitle: null
 active: true
 content:
-  form:
-    provider: netlify
-    formspree:
-      ? id
-    netlify:
-      captcha: false
   autolink: true
   address:
     city: İstanbul
@@ -20,8 +14,16 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
+      name: Twitter
       link: https://twitter.com/merturk
+    - icon: linkedin
+      icon_pack: fab
+      name: LinkedIn
+      link: https://www.linkedin.com/in/merturk/
+    - icon: researchgate
+      icon_pack: fab
+      name: ResearchGate
+      link: https://www.researchgate.net/profile/Mehmet_Ali_Ertuerk
 headless: true
 design:
   columns: "2"
