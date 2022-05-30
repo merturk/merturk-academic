@@ -12,21 +12,21 @@ experience:
     description:
   - title: IT Director
     company: IT Department, İstanbul University
-    company_url: "https://bilgiisilem.istanbul.edu.tr/tr/"
+    company_url: "https://bilgiislem.istanbul.edu.tr/tr/_"
     location: İstanbul, Türkiye
     date_start: 2020-01-01
     date_end: 2022-04-21
     description:
   - title: Project Manager
     company: IT Department, İstanbul University
-    company_url: "https://bilgiisilem.istanbul.edu.tr/tr/"
+    company_url: "https://bilgiislem.istanbul.edu.tr/tr/_"
     location: İstanbul, Türkiye
     date_start: 2014-03-01
     date_end: 2020-01-01
     description:
   - title: Software Engineer
     company: IT Department, İstanbul University
-    company_url: "https://bilgiisilem.istanbul.edu.tr/tr/"
+    company_url: "https://bilgiislem.istanbul.edu.tr/tr/_"
     location: İstanbul, Türkiye
     date_start: 2012-10-15
     date_end: 2014-03-01
