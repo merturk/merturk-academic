@@ -4,11 +4,18 @@ active: true
 date_format: Jan 2006
 experience:
   - title: Assistant Professor
+    company: Department of Computer Engineering, İstanbul University
+    company_url: "https://profil.istanbul.edu.tr/tr/p/mehmetali.erturk"
+    location: İstanbul, Türkiye
+    date_start: 2022-10-19
+    date_end: ""
+    description:
+  - title: Assistant Professor
     company: Department of Transportation and Logistics, İstanbul University
     company_url: "https://ulastirmalojistik.istanbul.edu.tr/tr/"
     location: İstanbul, Türkiye
     date_start: 2020-01-01
-    date_end: ""
+    date_end: "2022-10-19"
     description:
   - title: IT Director
     company: IT Department, İstanbul University
