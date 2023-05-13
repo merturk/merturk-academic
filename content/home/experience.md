@@ -5,7 +5,7 @@ date_format: Jan 2006
 experience:
   - title: Assistant Professor
     company: Department of Computer Engineering, İstanbul University
-    company_url: "https://profil.istanbul.edu.tr/tr/p/mehmetali.erturk"
+    company_url: "https://bilgisayar.istanbul.edu.tr/en/_"
     location: İstanbul, Türkiye
     date_start: 2022-10-19
     date_end: ""
