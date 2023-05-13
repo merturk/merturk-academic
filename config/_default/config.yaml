@@ -69,3 +69,7 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+  
+marketing:
+  analytics:
+    google_analytics: '367902807'
