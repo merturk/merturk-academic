@@ -49,6 +49,6 @@ I'm a computer engineer interested in wireless communications, low power wide ar
 
 I obtained Ph.D. 2016 in Computer Engineering, the thesis studies about management of Wireless Access Controller in IEEE 802.11 networks. I have performed research studies about  LPWAN Networks, the de-facto communication standard for IoT, mainly LoRa/LoRaWAN networks. Also, I'm working on cellular technologies on mMTC and V2X in 5G networks.  
 
-I am open to research cooperation with individuals and organizations related to wireless communication systems
+I am open to research cooperation with individuals and organizations related to digital twin and wireless communication systems
  in such a case, feel free to   {{< staticref "#contact" >}}contact me{{< /staticref >}}.  
 
