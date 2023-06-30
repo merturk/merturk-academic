@@ -45,7 +45,6 @@ superuser: true
 highlight_name: true
 ---
 
-I earned my Ph.D. in Computer Engineering in 2016. My thesis focused on managing Wireless Access Controllers in IEEE 802.11 networks. Since then, I have researched LPWAN Networks( which become a standard communication method for IoT), particularly LoRa/LoRaWAN networks. Recently, my studies have focused on Digital Twins, V2X Security, and IoT security.
+I completed my Ph.D. in Computer Engineering in 2016, with a thesis focused on managing Wireless Access Controllers in IEEE 802.11 networks. Since then, I have been researching LPWAN Networks, specifically LoRa/LoRaWAN networks, which have become a defacto communication standard for IoT. Recently, my studies have centered on Digital Twins, V2X, IoT communications, and security. 
 
-I am open to research cooperation with individuals and organizations related to digital twins, wireless communication systems and security
- in such a case, feel free to   {{< staticref "#contact" >}}contact me{{< /staticref >}}.  
+I am open to research cooperation with individuals and organizations related to digital twins, wireless communication systems, and security in such a case; feel free to  {{< staticref "#contact" >}}contact me{{< /staticref >}}.  
