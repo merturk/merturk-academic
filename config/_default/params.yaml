@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'I’m a computer engineer interested in wireless communications, low power wide area networks, and IoT. I obtained Ph.D. 2016 in Computer Engineering, the thesis studies about management of Wireless Access Controller in IEEE 802.11 networks. I have performed research studies about LPWAN Networks, the de-facto communication standard for IoT, mainly LoRa/LoRaWAN networks. Also, I’m working on cellular technologies on mMTC and V2X in 5G networks.'
+    description: 'Computer engineer interested in wireless communications, digital twins, IoT and cybersecurity. Interested in Digital Twins, 6G and Cybersecurity.'
     twitter: 'merturk'
   analytics:
     google_analytics: 'UA-6098617-1'
