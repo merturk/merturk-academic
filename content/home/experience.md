@@ -3,6 +3,13 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
+  - title: Research Fellow
+    company: School of Computing, Engineering & The Built Environment
+    company_url: "https://www.napier.ac.uk/about-us/our-schools/school-of-computing-engineering-and-the-built-environment/cybersecurity-systems-engineering"
+    location: Edinburgh, UK
+    date_start: 2024
+    date_end: ""
+    description:
   - title: Assistant Professor
     company: Department of Computer Engineering, İstanbul University
     company_url: "https://bilgisayar.istanbul.edu.tr/en/_"
