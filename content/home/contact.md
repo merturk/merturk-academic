@@ -16,6 +16,10 @@ content:
       icon_pack: fab
       name: Twitter
       link: https://twitter.com/merturk
+    - icon: medium
+      icon_pack: fab
+      name: Medium
+      link: https://medium.com/@merturk/
     - icon: linkedin
       icon_pack: fab
       name: LinkedIn
