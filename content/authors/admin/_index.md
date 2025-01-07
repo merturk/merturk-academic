@@ -7,7 +7,7 @@ interests:
   - Digital Twins
   - IoT
   - V2X
-  - Cyber Security
+  - Cybersecurity
 social:
   - icon: envelope
     icon_pack: fas
