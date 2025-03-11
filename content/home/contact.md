@@ -8,9 +8,9 @@ active: true
 content:
   autolink: true
   address:
-    city: İstanbul
-    country: Türkiye
-    country_code: TR
+    city: Edinburgh
+    country: UK
+    country_code: UK
   contact_links:
     - icon: twitter
       icon_pack: fab
